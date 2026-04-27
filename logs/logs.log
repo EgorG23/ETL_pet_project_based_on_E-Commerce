@@ -1,0 +1,1342 @@
+2026-04-23 21:12:03,650 - fetch.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-23 21:12:15,398 - fetch.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-23 21:12:17,994 - fetch.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-23 21:12:20,146 - fetch.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-23 21:12:21,342 - fetch.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-23 21:12:23,671 - fetch.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-23 21:12:24,238 - fetch.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-23 21:12:24,290 - fetch.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-23 21:12:24,298 - fetch.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-23 21:12:32,522 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:12:46,772 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:13:06,106 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:13:07,254 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:13:07,267 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:13:08,223 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:13:11,068 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:13:11,099 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:13:14,310 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:13:15,902 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:13:15,920 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:13:18,475 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:13:18,737 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:13:24,221 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:13:29,417 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:13:29,497 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:14:06,665 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:14:16,291 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:14:33,147 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:14:34,031 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:14:34,044 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:14:34,932 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:14:37,539 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:14:37,570 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:14:40,419 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:14:42,007 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:14:42,025 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:14:44,433 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:14:44,656 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:14:49,999 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:14:55,234 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:14:55,318 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:15:05,395 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:15:14,369 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:15:32,255 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:15:33,324 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:15:33,338 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:15:34,291 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:15:36,986 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:15:37,013 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:15:40,057 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:15:41,889 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:15:41,907 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:15:44,233 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:15:44,431 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:15:49,311 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:15:54,055 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:15:54,126 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:16:02,843 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:16:11,292 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:16:27,692 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:16:28,656 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:16:28,667 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:16:29,502 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:16:32,038 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:16:32,070 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:16:34,893 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:16:36,491 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:16:36,509 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:16:38,767 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:16:38,960 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:16:43,696 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:16:48,438 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:16:48,529 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:16:55,896 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:17:02,342 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:17:20,505 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:17:21,706 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:17:21,721 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:17:22,646 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:17:25,347 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:17:25,378 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:17:28,554 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:17:30,254 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:17:30,270 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:17:32,838 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:17:33,060 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:17:38,442 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:17:43,471 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:17:43,543 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:17:52,067 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:18:00,808 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:18:18,068 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:18:19,142 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:18:19,158 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:18:20,026 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:18:22,673 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:18:22,701 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:18:25,530 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:18:27,125 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:18:27,142 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:18:29,460 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:18:29,657 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:18:34,579 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:34:55,821 - fetch.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-23 21:35:02,272 - fetch.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-23 21:35:03,401 - fetch.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-23 21:35:04,034 - fetch.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-23 21:35:04,395 - fetch.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-23 21:35:05,154 - fetch.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-23 21:35:05,331 - fetch.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-23 21:35:05,349 - fetch.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-23 21:35:05,352 - fetch.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-23 21:35:07,901 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:35:13,258 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:35:18,783 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:35:19,203 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:35:19,211 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:35:19,502 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:35:20,587 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:35:20,600 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:35:21,567 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:35:22,216 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:35:22,222 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:35:22,965 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:35:23,052 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:35:24,824 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:35:26,582 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:35:26,623 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:35:38,450 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:35:42,105 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:35:47,788 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:35:48,173 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:35:48,180 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:35:48,476 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:35:49,720 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:35:49,736 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:35:50,774 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:35:51,533 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:35:51,539 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:35:52,294 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:35:52,379 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:35:54,279 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:35:56,158 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:35:56,197 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:35:59,973 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:36:03,549 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:36:09,247 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:36:09,755 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:36:09,761 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:36:10,062 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:36:11,252 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:36:11,266 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:36:12,281 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:36:13,065 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:36:13,072 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:36:13,817 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:36:13,904 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:36:15,831 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:36:17,773 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:36:17,810 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:36:21,248 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:36:24,876 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:36:30,403 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:36:30,857 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:36:30,864 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:36:31,189 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:36:32,392 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:36:32,406 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:36:33,414 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:36:34,220 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:36:34,225 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:36:35,020 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:36:35,108 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:36:37,058 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:36:39,003 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:36:39,041 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:36:41,920 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:36:45,416 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:36:51,142 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:36:51,607 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:36:51,613 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:36:51,910 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:36:53,072 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:36:53,085 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:36:54,106 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:36:54,824 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:36:54,831 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:36:55,625 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:36:55,707 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:36:57,588 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:36:59,496 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:36:59,534 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:37:02,972 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:37:06,615 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:37:12,467 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:37:12,922 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:37:12,928 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:37:13,242 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:37:14,395 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:37:14,409 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:37:15,407 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:37:16,115 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:37:16,121 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:37:16,885 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:37:16,965 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:37:18,911 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:37:20,890 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:37:20,927 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:37:22,936 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:37:26,495 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:37:32,648 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:37:33,139 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:37:33,145 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:37:33,451 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:37:34,530 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:37:34,542 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:37:35,633 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:37:36,433 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:37:36,442 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:37:37,435 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:37:37,565 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:37:39,891 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:37:41,872 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:37:41,908 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:37:43,318 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:37:46,791 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:37:52,683 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:37:53,089 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:37:53,094 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:37:53,390 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:37:54,367 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:37:54,376 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:37:55,383 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:37:55,973 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:37:55,979 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:37:56,756 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:37:56,836 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:37:58,788 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:38:00,717 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:38:00,763 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:38:02,316 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 21:38:06,382 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 21:38:12,735 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 21:38:13,190 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 21:38:13,196 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 21:38:13,504 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 21:38:14,600 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 21:38:14,615 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 21:38:15,883 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 21:38:16,518 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 21:38:16,526 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 21:38:17,339 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:38:17,420 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 21:38:19,266 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 21:38:21,048 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 21:38:21,090 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 21:38:21,090 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-23 22:29:23,470 - fetch.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-23 22:29:27,153 - fetch.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-23 22:29:27,999 - fetch.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-23 22:29:28,629 - fetch.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-23 22:29:28,993 - fetch.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-23 22:29:29,741 - fetch.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-23 22:29:29,921 - fetch.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-23 22:29:29,937 - fetch.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-23 22:29:29,940 - fetch.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-23 22:29:52,957 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 22:29:56,511 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 22:30:02,282 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 22:30:02,696 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 22:30:02,702 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 22:30:02,991 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 22:30:04,017 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 22:30:04,029 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 22:30:05,046 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 22:30:05,638 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 22:30:05,643 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 22:30:06,412 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 22:30:06,496 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 22:30:08,239 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 22:30:10,076 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 22:30:10,121 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 22:30:10,121 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-23 22:43:23,679 - fetch.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-23 22:43:27,924 - fetch.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-23 22:43:28,884 - fetch.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-23 22:43:29,566 - fetch.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-23 22:43:29,926 - fetch.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-23 22:43:30,682 - fetch.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-23 22:43:30,859 - fetch.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-23 22:43:30,874 - fetch.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-23 22:43:30,877 - fetch.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-23 22:43:52,163 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-23 22:43:52,178 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-23 22:43:52,905 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 22:43:56,491 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 22:44:02,227 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 22:44:02,716 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 22:44:02,721 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 22:44:02,993 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 22:44:03,973 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 22:44:03,983 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 22:44:04,950 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 22:44:05,576 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 22:44:05,582 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 22:44:06,379 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 22:44:06,459 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 22:44:08,119 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 22:44:09,843 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 22:44:09,888 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 22:44:09,888 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-23 22:55:59,537 - fetch.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-23 22:56:03,421 - fetch.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-23 22:56:04,390 - fetch.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-23 22:56:05,112 - fetch.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-23 22:56:05,474 - fetch.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-23 22:56:06,237 - fetch.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-23 22:56:06,424 - fetch.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-23 22:56:06,440 - fetch.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-23 22:56:06,442 - fetch.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-23 22:56:27,965 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-23 22:56:27,977 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-23 22:56:28,706 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 22:56:32,287 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 22:56:37,906 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 22:56:38,427 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 22:56:38,435 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 22:56:38,781 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 22:56:39,845 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 22:56:39,854 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 22:56:40,884 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 22:56:41,510 - clean_customers.py - INFO - Набор данных со штатами успешно создан
+2026-04-23 22:56:41,516 - clean_customers.py - INFO - state_id успешно создан
+2026-04-23 22:56:42,290 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 22:56:42,369 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 22:56:44,057 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-23 22:56:45,785 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-23 22:56:45,831 - clean_category_name_translation.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-23 22:56:45,833 - clean_category_name_translation.py - INFO - payment_type_id успешно создан
+2026-04-23 22:56:45,836 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 22:56:45,836 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-23 23:04:19,664 - fetch.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-23 23:04:23,358 - fetch.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-23 23:04:24,339 - fetch.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-23 23:04:25,061 - fetch.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-23 23:04:25,509 - fetch.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-23 23:04:26,273 - fetch.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-23 23:04:26,462 - fetch.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-23 23:04:26,476 - fetch.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-23 23:04:26,479 - fetch.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-23 23:04:47,171 - clean_products.py - INFO - Набор данных с категориями успешно создан
+2026-04-23 23:04:47,176 - clean_products.py - INFO - product_category_id успешно создан
+2026-04-23 23:04:47,447 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 23:04:47,462 - clean_category_name_translation.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-23 23:04:47,463 - clean_category_name_translation.py - INFO - payment_type_id успешно создан
+2026-04-23 23:04:47,465 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 23:04:47,465 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-23 23:08:46,754 - fetch.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-23 23:08:51,065 - fetch.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-23 23:08:52,226 - fetch.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-23 23:08:53,023 - fetch.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-23 23:08:53,452 - fetch.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-23 23:08:54,290 - fetch.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-23 23:08:54,490 - fetch.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-23 23:08:54,508 - fetch.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-23 23:08:54,512 - fetch.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-23 23:09:18,763 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 23:09:18,785 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-23 23:09:18,785 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-23 23:10:24,740 - fetch.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-23 23:16:16,113 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-23 23:16:16,128 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-23 23:16:16,862 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-23 23:16:20,243 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 23:16:25,978 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 23:16:26,669 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-23 23:16:27,638 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-23 23:16:27,647 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-23 23:16:28,646 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-23 23:16:29,223 - clean_customers.py - ERROR - Ошибка обработки в olist_customers_dataset.json: 'state'
+2026-04-23 23:16:29,225 - process_data.py - ERROR - Ошибка обработки при очистке данных: 'state'
+2026-04-23 23:19:36,296 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 23:19:41,779 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 23:19:42,491 - clean_customers.py - ERROR - Ошибка обработки в olist_customers_dataset.json: 'state'
+2026-04-23 23:19:42,491 - process_data.py - ERROR - Ошибка обработки при очистке данных: 'state'
+2026-04-23 23:21:29,974 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 23:21:35,630 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 23:21:36,353 - clean_customers.py - ERROR - Ошибка обработки в olist_customers_dataset.json: 'state'
+2026-04-23 23:21:36,354 - process_data.py - ERROR - Ошибка обработки при очистке данных: 'state'
+2026-04-23 23:23:05,334 - clean_geolocation.py - INFO - geolocation_state_id успешно создан
+2026-04-23 23:23:10,823 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 23:23:11,536 - clean_customers.py - ERROR - Ошибка обработки в olist_customers_dataset.json: 'state'
+2026-04-23 23:23:11,536 - process_data.py - ERROR - Ошибка обработки при очистке данных: 'state'
+2026-04-23 23:27:30,111 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 23:27:31,621 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:27:31,686 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:27:31,687 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-23 23:28:50,807 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 23:28:52,287 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:28:52,351 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:28:52,352 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-23 23:30:49,760 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 23:30:51,266 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:30:51,353 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:30:51,354 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-23 23:33:54,873 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 23:33:55,602 - clean_customers.py - ERROR - Ошибка обработки в olist_customers_dataset.json: File C:\Users\huawei\PycharmProjects\DoYouWantAPetProject\data\json_files\states.json does not exist
+2026-04-23 23:33:55,602 - process_data.py - ERROR - Ошибка обработки при очистке данных: File C:\Users\huawei\PycharmProjects\DoYouWantAPetProject\data\json_files\states.json does not exist
+2026-04-23 23:37:12,202 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 23:37:13,789 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:37:13,857 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:37:13,858 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-23 23:40:58,261 - clean_geolocation.py - ERROR - Ошибка обработки в olist_geolocation_dataset.json: 'state'
+2026-04-23 23:40:58,261 - process_data.py - ERROR - Ошибка обработки при очистке данных: 'state'
+2026-04-23 23:43:14,457 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 23:43:16,160 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:43:16,244 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:43:16,246 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-23 23:48:09,742 - clean_geolocation.py - ERROR - Ошибка обработки в olist_geolocation_dataset.json: Length of values (27) does not match length of index (8011)
+2026-04-23 23:48:09,742 - process_data.py - ERROR - Ошибка обработки при очистке данных: Length of values (27) does not match length of index (8011)
+2026-04-23 23:49:13,206 - clean_geolocation.py - ERROR - Ошибка обработки в olist_geolocation_dataset.json: 'city'
+2026-04-23 23:49:13,206 - process_data.py - ERROR - Ошибка обработки при очистке данных: 'city'
+2026-04-23 23:51:00,093 - clean_geolocation.py - ERROR - Ошибка обработки в olist_geolocation_dataset.json: 'city'
+2026-04-23 23:51:00,093 - process_data.py - ERROR - Ошибка обработки при очистке данных: 'city'
+2026-04-23 23:51:44,286 - clean_geolocation.py - ERROR - Ошибка обработки в olist_geolocation_dataset.json: 'city'
+2026-04-23 23:51:44,286 - process_data.py - ERROR - Ошибка обработки при очистке данных: 'city'
+2026-04-23 23:54:16,144 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-23 23:54:17,715 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:54:17,809 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-23 23:54:17,809 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 00:06:58,753 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 00:06:59,412 - clean_customers.py - ERROR - Ошибка обработки в olist_customers_dataset.json: The column label 'state' is not unique.
+2026-04-24 00:06:59,412 - process_data.py - ERROR - Ошибка обработки при очистке данных: The column label 'state' is not unique.
+2026-04-24 00:09:25,511 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 00:09:26,202 - clean_customers.py - ERROR - Ошибка обработки в olist_customers_dataset.json: The column label 'state' is not unique.
+2026-04-24 00:09:26,202 - process_data.py - ERROR - Ошибка обработки при очистке данных: The column label 'state' is not unique.
+2026-04-24 00:11:01,977 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 00:11:03,453 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-24 00:11:03,543 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-24 00:11:03,544 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 00:12:13,258 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-24 00:12:13,270 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-24 00:12:14,086 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 00:12:24,346 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 00:12:25,050 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 00:12:26,125 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-24 00:12:26,140 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-24 00:12:27,372 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-24 00:12:28,832 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-24 00:12:28,926 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-24 00:12:30,762 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-24 00:12:32,646 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-24 00:12:32,695 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 00:12:32,695 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 00:14:32,899 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 00:14:32,899 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 00:15:21,395 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 00:15:21,396 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 00:18:20,387 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 00:18:20,398 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 00:19:20,861 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 00:19:21,559 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 00:19:21,571 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 00:21:52,305 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 00:21:52,829 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 00:21:52,840 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 00:22:51,917 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-24 00:22:51,929 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-24 00:22:52,711 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 00:23:03,115 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 00:23:04,173 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-24 00:23:04,182 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-24 00:23:05,196 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-24 00:23:06,650 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-24 00:23:06,740 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-24 00:23:08,498 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-24 00:23:10,258 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-24 00:23:10,294 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 00:24:27,830 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-24 00:24:27,843 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-24 00:24:28,720 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 00:24:40,168 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 00:24:40,257 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 00:24:40,898 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 00:24:42,113 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-24 00:24:42,124 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-24 00:24:43,254 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-24 00:24:44,807 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-24 00:24:44,896 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-24 00:24:46,778 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-24 00:24:48,620 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-24 00:24:48,657 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 00:51:06,516 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-24 00:51:06,535 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-24 00:51:07,283 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 00:51:18,912 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 00:51:18,929 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 00:51:19,440 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 00:51:20,537 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-24 00:51:20,548 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-24 00:51:21,630 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-24 00:51:23,074 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-24 00:51:23,157 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-24 00:51:24,924 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-24 00:51:27,312 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-24 00:51:27,366 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 00:55:13,011 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-24 00:55:13,023 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-24 00:55:13,766 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 00:55:25,511 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 00:55:25,530 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 00:55:25,755 - clean_products.py - ERROR - Ошибка обработки в olist_products_dataset.json: normalize() argument 2 must be str, not float
+2026-04-24 00:55:25,755 - process_data.py - ERROR - Ошибка обработки при очистке данных: normalize() argument 2 must be str, not float
+2026-04-24 00:58:26,280 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-24 00:58:26,292 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-24 00:58:27,028 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 00:58:38,395 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 00:58:38,416 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 00:58:38,651 - clean_products.py - ERROR - Ошибка обработки в olist_products_dataset.json: normalize() argument 2 must be str, not float
+2026-04-24 00:58:38,651 - process_data.py - ERROR - Ошибка обработки при очистке данных: normalize() argument 2 must be str, not float
+2026-04-24 01:01:46,052 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-24 01:01:46,074 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-24 01:01:47,378 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 01:02:01,618 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 01:02:01,650 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 01:02:02,502 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 01:02:03,692 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-24 01:02:03,703 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-24 01:02:04,843 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-24 01:02:06,718 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-24 01:02:06,857 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-24 01:02:08,856 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-24 01:02:11,089 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-24 01:02:11,160 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 01:23:30,131 - fetch.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-24 01:24:08,782 - fetch.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-24 01:24:12,298 - fetch.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-24 01:24:13,272 - fetch.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-24 01:24:13,976 - fetch.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-24 01:24:14,338 - fetch.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-24 01:24:15,131 - fetch.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-24 01:24:15,327 - fetch.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-24 01:24:15,342 - fetch.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-24 01:24:15,346 - fetch.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-24 01:24:39,671 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-24 01:24:39,685 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-24 01:24:40,488 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 01:24:54,055 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 01:24:54,077 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 01:24:54,971 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 01:24:56,499 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-24 01:24:56,509 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-24 01:24:57,707 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-24 01:24:59,503 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-24 01:24:59,613 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-24 01:25:01,614 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-24 01:25:03,554 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-24 01:25:03,588 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 01:45:36,044 - fetch.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-24 01:45:41,146 - fetch.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-24 01:45:42,350 - fetch.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-24 01:45:43,159 - fetch.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-24 01:45:43,631 - fetch.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-24 01:45:44,654 - fetch.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-24 01:45:44,900 - fetch.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-24 01:45:44,926 - fetch.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-24 01:45:44,930 - fetch.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-24 01:46:10,029 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-24 01:46:10,045 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-24 01:46:10,874 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 01:46:24,066 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 01:46:24,087 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 01:46:24,733 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 01:46:25,905 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-24 01:46:25,925 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-24 01:46:27,386 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-24 01:46:29,295 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-24 01:46:29,402 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-24 01:46:31,603 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-24 01:46:33,664 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-24 01:46:33,702 - process_data.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 21:06:33,967 - extract.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-24 21:06:37,895 - extract.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-24 21:06:38,896 - extract.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-24 21:06:39,557 - extract.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-24 21:06:39,942 - extract.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-24 21:06:40,779 - extract.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-24 21:06:40,977 - extract.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-24 21:06:40,993 - extract.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-24 21:06:41,000 - extract.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-24 21:07:02,571 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-24 21:07:02,583 - clean_order_payments.py - INFO - payment_type_id успешно создан
+2026-04-24 21:07:03,345 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 21:07:15,457 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 21:07:15,478 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 21:07:16,134 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 21:07:17,476 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-24 21:07:17,487 - clean_orders.py - INFO - order_status_id успешно создан
+2026-04-24 21:07:18,520 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-24 21:07:20,362 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-24 21:07:20,460 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-24 21:07:22,255 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-24 21:07:24,099 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-24 21:07:24,134 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 22:11:08,137 - extract.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-24 22:11:11,903 - extract.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-24 22:11:12,958 - extract.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-24 22:11:13,680 - extract.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-24 22:11:14,102 - extract.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-24 22:11:14,946 - extract.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-24 22:11:15,131 - extract.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-24 22:11:15,148 - extract.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-24 22:11:15,152 - extract.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-24 22:11:36,510 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 22:11:48,711 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 22:11:48,785 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 22:11:49,558 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 22:11:52,104 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-24 22:11:54,695 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-24 22:11:54,800 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-24 22:11:57,126 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-24 22:11:59,315 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-24 22:11:59,365 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-24 23:29:29,020 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-24 23:29:41,093 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-24 23:29:41,154 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-24 23:29:41,815 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-24 23:29:43,906 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-24 23:29:45,679 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-24 23:29:45,756 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-24 23:29:47,677 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-24 23:29:49,466 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-24 23:29:49,503 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-25 14:07:21,298 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-25 14:07:22,316 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-25 14:07:37,068 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-25 14:07:37,142 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-25 14:07:37,895 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-25 14:07:39,071 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-25 14:07:40,302 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-25 14:07:42,415 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-25 14:07:42,514 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-25 14:07:44,698 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-25 14:07:46,925 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-25 14:07:46,960 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-25 14:38:18,898 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-25 14:38:20,026 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-25 14:38:35,831 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-25 14:38:35,895 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-25 14:38:36,574 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-25 14:38:37,663 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-25 14:38:38,912 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-25 14:38:40,934 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-25 14:38:41,023 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-25 14:38:43,063 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-25 14:38:45,070 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-25 14:38:45,109 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-25 15:22:44,645 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-25 15:22:45,719 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-25 15:23:02,398 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-25 15:23:02,495 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-25 15:23:04,233 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-25 15:23:05,649 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-25 15:23:07,289 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-25 15:23:09,578 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-25 15:23:09,679 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-25 15:23:11,983 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-25 15:23:14,368 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-25 15:23:14,410 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-25 15:34:17,961 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-25 15:34:19,025 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-25 15:34:35,592 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-25 15:34:35,717 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-25 15:34:37,057 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-25 15:34:38,434 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-25 15:34:43,050 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-25 15:34:45,618 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-25 15:34:45,717 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-25 15:34:48,582 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-25 15:34:52,559 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-25 15:34:52,604 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-25 17:53:48,687 - extract.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-25 17:53:52,206 - extract.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-25 17:53:53,075 - extract.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-25 17:53:53,695 - extract.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-25 17:53:54,037 - extract.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-25 17:53:54,775 - extract.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-25 17:53:54,964 - extract.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-25 17:53:54,984 - extract.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-25 17:53:54,991 - extract.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-25 17:54:16,069 - clean_order_payments.py - INFO - Набор данных с видами оплаты успешно создан
+2026-04-25 17:54:16,900 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-25 17:54:28,783 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-25 17:54:28,859 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-25 17:54:29,600 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-25 17:54:30,809 - clean_orders.py - INFO - Набор данных со статусами успешно создан
+2026-04-25 17:54:33,810 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-25 17:54:35,475 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-25 17:54:35,556 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-25 17:54:37,883 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-25 17:54:40,726 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-25 17:54:40,762 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-25 18:01:26,024 - load.py - ERROR - Ошибка чтения categories: Trailing data
+2026-04-25 18:02:16,777 - load.py - ERROR - Ошибка загрузки categories в БД: (psycopg2.errors.InvalidSchemaName) ОШИБКА:  схема "staging" не существует
+LINE 2: CREATE TABLE staging.categories_temp (
+                     ^
+
+[SQL: 
+CREATE TABLE staging.categories_temp (
+	product_category_name TEXT, 
+	product_category_name_english TEXT, 
+	ingestion_time TIMESTAMP WITH TIME ZONE
+)
+
+]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-04-25 18:04:17,336 - load.py - INFO - Данные из categories успешно загружены
+2026-04-25 18:04:17,361 - load.py - ERROR - Ошибка загрузки cities в БД: Execution failed on sql 'INSERT INTO cities (city) VALUES (:city)': (psycopg2.errors.UndefinedColumn) ОШИБКА:  столбец "city" в таблице "cities" не существует
+LINE 1: INSERT INTO cities (city) VALUES ('sao paulo'), ('sao bernar...
+                            ^
+
+[SQL: INSERT INTO cities (city) VALUES (%(city__0)s), (%(city__1)s), (%(city__2)s), (%(city__3)s), (%(city__4)s), (%(city__5)s), (%(city__6)s), (%(city__7)s), (%(city__8)s), (%(city__9)s), (%(city__10)s), (%(city__11)s), (%(city__12)s), (%(city__13)s), (%( ... 16571 characters truncated ... (%(city__994)s), (%(city__995)s), (%(city__996)s), (%(city__997)s), (%(city__998)s), (%(city__999)s)]
+[parameters: {'city__0': 'sao paulo', 'city__1': 'sao bernardo do campo', 'city__2': 'jundiai', 'city__3': 'taboao da serra', 'city__4': 'saopaulo', 'city__5': 'sp', 'city__6': 'sa£o paulo', 'city__7': 'sao jose dos campos', 'city__8': 'osasco', 'city__9': 'carapicuiba', 'city__10': 'barueri', 'city__11': 'santana de parnaiba', 'city__12': 'pirapora do bom jesus', 'city__13': 'jandira', 'city__14': 'itapevi', 'city__15': 'cotia', 'city__16': 'vargem grande paulista', 'city__17': 'embu das artes', 'city__18': 'itapecerica da serra', 'city__19': 'embu', 'city__20': 'sao lourenco da serra', 'city__21': 'embu-guacu', 'city__22': 'embu guacu', 'city__23': 'juquitiba', 'city__24': 'embuguacu', 'city__25': 'guarulhos', 'city__26': 'adamantina', 'city__27': 'guarulhos-sp', 'city__28': 'aruja', 'city__29': 'santa isabel', 'city__30': 'mairipora', 'city__31': 'cajamar', 'city__32': 'caieiras', 'city__33': 'jordanesia', 'city__34': 'polvilho', 'city__35': 'maua', 'city__36': 'franco da rocha', 'city__37': 'francisco morato', 'city__38': 'poa', 'city__39': 'itaquaquecetuba', 'city__40': 'ferraz de vasconcelos', 'city__41': 'suzano', 'city__42': 'mogi das cruzes', 'city__43': 'mogidascruzes', 'city__44': 'salesopolis', 'city__45': 'biritiba-mirim', 'city__46': 'guararema', 'city__47': 'biritiba mirim', 'city__48': 'santo andre', 'city__49': 'ribeirao pires' ... 900 parameters truncated ... 'city__950': '...arraial do cabo', 'city__951': 'vitoria', 'city__952': 'vila velha', 'city__953': 'serra', 'city__954': 'cariacica', 'city__955': 'aracruz', 'city__956': 'viana', 'city__957': 'fundao', 'city__958': 'coqueiral', 'city__959': 'praia grande (fundao) - distrito', 'city__960': 'anchieta', 'city__961': 'rio novo do sul', 'city__962': 'guarapari', 'city__963': 'iconha', 'city__964': 'marechal floriano', 'city__965': 'domingos martins', 'city__966': 'alfredo chaves', 'city__967': 'piuma', 'city__968': 'vargem alta', 'city__969': 'araguaia', 'city__970': 'isabel', 'city__971': 'paraju', 'city__972': 'jacigua', 'city__973': 'arace', 'city__974': 'cachoeiro de itapemirim', 'city__975': 'castelo', 'city__976': 'ibatiba', 'city__977': 'presidente kennedy', 'city__978': 'venda nova do imigrante', 'city__979': 'itapemirim', 'city__980': 'irupi', 'city__981': 'marataizes', 'city__982': 'conceicao do castelo', 'city__983': 'iuna', 'city__984': 'itaipava', 'city__985': 'conduru', 'city__986': 'muniz freire', 'city__987': 'vargem grande do soturno', 'city__988': 'corrego dos monos', 'city__989': 'sao joao de vicosa', 'city__990': 'pacotuba', 'city__991': 'burarama', 'city__992': 'venda nova do imigrante-es', 'city__993': 'sao jose do calcado', 'city__994': 'mimoso do sul', 'city__995': 'muqui', 'city__996': 'atilio vivacqua', 'city__997': 'apiaca', 'city__998': 'bom jesus do norte', 'city__999': 'sao jose das torres'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-04-25 18:05:44,547 - load.py - ERROR - Ошибка загрузки categories в БД: Execution failed on sql 'INSERT INTO product_categories (product_category_name, product_category_name_english, ingestion_time) VALUES (:product_category_name, :product_category_name_english, :ingestion_time)': (psycopg2.errors.UniqueViolation) ОШИБКА:  повторяющееся значение ключа нарушает ограничение уникальности "product_categories_product_category_name_key"
+DETAIL:  Ключ "(product_category_name)=(beleza_saude)" уже существует.
+
+[SQL: INSERT INTO product_categories (product_category_name, product_category_name_english, ingestion_time) VALUES (%(product_category_name__0)s, %(product_category_name_english__0)s, %(ingestion_time__0)s), (%(product_category_name__1)s, %(product_categor ... 6543 characters truncated ... 9)s), (%(product_category_name__70)s, %(product_category_name_english__70)s, %(ingestion_time__70)s)]
+[parameters: {'product_category_name_english__0': 'health_beauty', 'product_category_name__0': 'beleza_saude', 'ingestion_time__0': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__1': 'computers_accessories', 'product_category_name__1': 'informatica_acessorios', 'ingestion_time__1': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__2': 'auto', 'product_category_name__2': 'automotivo', 'ingestion_time__2': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__3': 'bed_bath_table', 'product_category_name__3': 'cama_mesa_banho', 'ingestion_time__3': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__4': 'furniture_decor', 'product_category_name__4': 'moveis_decoracao', 'ingestion_time__4': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__5': 'sports_leisure', 'product_category_name__5': 'esporte_lazer', 'ingestion_time__5': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__6': 'perfumery', 'product_category_name__6': 'perfumaria', 'ingestion_time__6': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__7': 'housewares', 'product_category_name__7': 'utilidades_domesticas', 'ingestion_time__7': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__8': 'telephony', 'product_category_name__8': 'telefonia', 'ingestion_time__8': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__9': 'watches_gifts', 'product_category_name__9': 'relogios_presentes', 'ingestion_time__9': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__10': 'food_drink', 'product_category_name__10': 'alimentos_bebidas', 'ingestion_time__10': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__11': 'baby', 'product_category_name__11': 'bebes', 'ingestion_time__11': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__12': 'stationery', 'product_category_name__12': 'papelaria', 'ingestion_time__12': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__13': 'tablets_printing_image', 'product_category_name__13': 'tablets_impressao_imagem', 'ingestion_time__13': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__14': 'toys', 'product_category_name__14': 'brinquedos', 'ingestion_time__14': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__15': 'fixed_telephony', 'product_category_name__15': 'telefonia_fixa', 'ingestion_time__15': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__16': 'garden_tools', 'product_category_name__16': 'ferramentas_jardim' ... 113 parameters truncated ... 'product_category_name__54': 'artigos_de_natal', 'ingestion_time__54': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__55': 'fashio_female_clothing', 'product_category_name__55': 'fashion_roupa_feminina', 'ingestion_time__55': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__56': 'home_appliances_2', 'product_category_name__56': 'eletrodomesticos_2', 'ingestion_time__56': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__57': 'books_imported', 'product_category_name__57': 'livros_importados', 'ingestion_time__57': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__58': 'drinks', 'product_category_name__58': 'bebidas', 'ingestion_time__58': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__59': 'cine_photo', 'product_category_name__59': 'cine_foto', 'ingestion_time__59': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__60': 'la_cuisine', 'product_category_name__60': 'la_cuisine', 'ingestion_time__60': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__61': 'music', 'product_category_name__61': 'musica', 'ingestion_time__61': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__62': 'home_comfort_2', 'product_category_name__62': 'casa_conforto_2', 'ingestion_time__62': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__63': 'small_appliances_home_oven_and_coffee', 'product_category_name__63': 'portateis_casa_forno_e_cafe', 'ingestion_time__63': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__64': 'cds_dvds_musicals', 'product_category_name__64': 'cds_dvds_musicais', 'ingestion_time__64': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__65': 'dvds_blu_ray', 'product_category_name__65': 'dvds_blu_ray', 'ingestion_time__65': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__66': 'flowers', 'product_category_name__66': 'flores', 'ingestion_time__66': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__67': 'arts_and_craftmanship', 'product_category_name__67': 'artes_e_artesanato', 'ingestion_time__67': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__68': 'diapers_and_hygiene', 'product_category_name__68': 'fraldas_higiene', 'ingestion_time__68': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__69': 'fashion_childrens_clothes', 'product_category_name__69': 'fashion_roupa_infanto_juvenil', 'ingestion_time__69': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__70': 'security_and_services', 'product_category_name__70': 'seguros_e_servicos', 'ingestion_time__70': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc)}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2026-04-25 18:08:28,986 - load.py - ERROR - Ошибка загрузки categories в БД: Execution failed on sql 'INSERT INTO product_categories (product_category_name, product_category_name_english, ingestion_time) VALUES (:product_category_name, :product_category_name_english, :ingestion_time)': (psycopg2.errors.UniqueViolation) ОШИБКА:  повторяющееся значение ключа нарушает ограничение уникальности "product_categories_product_category_name_key"
+DETAIL:  Ключ "(product_category_name)=(beleza_saude)" уже существует.
+
+[SQL: INSERT INTO product_categories (product_category_name, product_category_name_english, ingestion_time) VALUES (%(product_category_name__0)s, %(product_category_name_english__0)s, %(ingestion_time__0)s), (%(product_category_name__1)s, %(product_categor ... 6543 characters truncated ... 9)s), (%(product_category_name__70)s, %(product_category_name_english__70)s, %(ingestion_time__70)s)]
+[parameters: {'ingestion_time__0': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__0': 'health_beauty', 'product_category_name__0': 'beleza_saude', 'ingestion_time__1': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__1': 'computers_accessories', 'product_category_name__1': 'informatica_acessorios', 'ingestion_time__2': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__2': 'auto', 'product_category_name__2': 'automotivo', 'ingestion_time__3': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__3': 'bed_bath_table', 'product_category_name__3': 'cama_mesa_banho', 'ingestion_time__4': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__4': 'furniture_decor', 'product_category_name__4': 'moveis_decoracao', 'ingestion_time__5': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__5': 'sports_leisure', 'product_category_name__5': 'esporte_lazer', 'ingestion_time__6': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__6': 'perfumery', 'product_category_name__6': 'perfumaria', 'ingestion_time__7': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__7': 'housewares', 'product_category_name__7': 'utilidades_domesticas', 'ingestion_time__8': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__8': 'telephony', 'product_category_name__8': 'telefonia', 'ingestion_time__9': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__9': 'watches_gifts', 'product_category_name__9': 'relogios_presentes', 'ingestion_time__10': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__10': 'food_drink', 'product_category_name__10': 'alimentos_bebidas', 'ingestion_time__11': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__11': 'baby', 'product_category_name__11': 'bebes', 'ingestion_time__12': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__12': 'stationery', 'product_category_name__12': 'papelaria', 'ingestion_time__13': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__13': 'tablets_printing_image', 'product_category_name__13': 'tablets_impressao_imagem', 'ingestion_time__14': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__14': 'toys', 'product_category_name__14': 'brinquedos', 'ingestion_time__15': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__15': 'fixed_telephony', 'product_category_name__15': 'telefonia_fixa', 'ingestion_time__16': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__16': 'garden_tools' ... 113 parameters truncated ... 'product_category_name_english__54': 'christmas_supplies', 'product_category_name__54': 'artigos_de_natal', 'ingestion_time__55': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__55': 'fashio_female_clothing', 'product_category_name__55': 'fashion_roupa_feminina', 'ingestion_time__56': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__56': 'home_appliances_2', 'product_category_name__56': 'eletrodomesticos_2', 'ingestion_time__57': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__57': 'books_imported', 'product_category_name__57': 'livros_importados', 'ingestion_time__58': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__58': 'drinks', 'product_category_name__58': 'bebidas', 'ingestion_time__59': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__59': 'cine_photo', 'product_category_name__59': 'cine_foto', 'ingestion_time__60': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__60': 'la_cuisine', 'product_category_name__60': 'la_cuisine', 'ingestion_time__61': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__61': 'music', 'product_category_name__61': 'musica', 'ingestion_time__62': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__62': 'home_comfort_2', 'product_category_name__62': 'casa_conforto_2', 'ingestion_time__63': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__63': 'small_appliances_home_oven_and_coffee', 'product_category_name__63': 'portateis_casa_forno_e_cafe', 'ingestion_time__64': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__64': 'cds_dvds_musicals', 'product_category_name__64': 'cds_dvds_musicais', 'ingestion_time__65': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__65': 'dvds_blu_ray', 'product_category_name__65': 'dvds_blu_ray', 'ingestion_time__66': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__66': 'flowers', 'product_category_name__66': 'flores', 'ingestion_time__67': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__67': 'arts_and_craftmanship', 'product_category_name__67': 'artes_e_artesanato', 'ingestion_time__68': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__68': 'diapers_and_hygiene', 'product_category_name__68': 'fraldas_higiene', 'ingestion_time__69': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__69': 'fashion_childrens_clothes', 'product_category_name__69': 'fashion_roupa_infanto_juvenil', 'ingestion_time__70': datetime.datetime(2026, 4, 25, 14, 53, 54, 988000, tzinfo=datetime.timezone.utc), 'product_category_name_english__70': 'security_and_services', 'product_category_name__70': 'seguros_e_servicos'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2026-04-25 18:29:17,140 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-25 18:32:41,960 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-25 18:33:16,343 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-25 18:34:11,155 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-25 18:34:11,170 - load.py - ERROR - Ошибка загрузки categories в БД: 'categories'
+2026-04-25 18:40:07,025 - extract.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-25 18:40:11,081 - extract.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-25 18:40:11,977 - extract.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-25 18:40:12,610 - extract.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-25 18:40:12,967 - extract.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-25 18:40:13,723 - extract.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-25 18:40:13,931 - extract.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-25 18:40:13,948 - extract.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-25 18:40:13,952 - extract.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-25 18:40:36,586 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-25 18:40:49,481 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-25 18:40:49,548 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-25 18:40:50,250 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-25 18:40:54,362 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-25 18:40:55,983 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-25 18:40:56,059 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-25 18:40:58,288 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-25 18:41:01,137 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-25 18:41:01,171 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-25 18:41:01,242 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-25 18:41:01,245 - load.py - ERROR - Ошибка загрузки categories в БД: 'categories'
+2026-04-25 18:47:08,469 - extract.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-25 18:47:11,877 - extract.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-25 18:47:44,400 - extract.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-25 18:47:47,835 - extract.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-25 18:47:48,692 - extract.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-25 18:47:49,346 - extract.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-25 18:47:49,711 - extract.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-25 18:47:50,508 - extract.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-25 18:47:50,694 - extract.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-25 18:47:50,708 - extract.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-25 18:47:50,711 - extract.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-25 18:48:12,656 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-25 18:48:24,291 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-25 18:48:24,351 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-25 18:48:24,925 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-25 18:48:28,981 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-25 18:48:30,630 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-25 18:48:30,712 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-25 18:48:33,196 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-25 18:48:36,056 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-25 18:48:36,091 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-25 18:48:36,168 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-25 18:48:36,301 - load.py - INFO - Данные из categories успешно загружены
+2026-04-25 18:48:37,435 - load.py - ERROR - Ошибка загрузки customers в БД: Execution failed on sql 'INSERT INTO customers_temp (customer_id, customer_unique_id, customer_zip_code_prefix, city, state, ingestion_time) VALUES (:customer_id, :customer_unique_id, :customer_zip_code_prefix, :city, :state, :ingestion_time)': (psycopg2.errors.UniqueViolation) ОШИБКА:  повторяющееся значение ключа нарушает ограничение уникальности "customers_temp_customer_unique_id_key"
+DETAIL:  Ключ "(customer_unique_id)=(b6c083700ca8c135ba9f0f132930d4e8)" уже существует.
+
+[SQL: INSERT INTO customers_temp (customer_id, customer_unique_id, customer_zip_code_prefix, city, state, ingestion_time) VALUES (%(customer_id__0)s, %(customer_unique_id__0)s, %(customer_zip_code_prefix__0)s, %(city__0)s, %(state__0)s, %(ingestion_time__0 ... 143111 characters truncated ... d__999)s, %(customer_zip_code_prefix__999)s, %(city__999)s, %(state__999)s, %(ingestion_time__999)s)]
+[parameters: {'city__0': 'franca', 'customer_zip_code_prefix__0': 14409, 'customer_unique_id__0': '861eff4711a542e4b93843c6dd7febb0', 'customer_id__0': '06b8999e2fba1a1fbc88172c00ba8bc7', 'ingestion_time__0': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__0': 'sp', 'city__1': 'sao bernardo do campo', 'customer_zip_code_prefix__1': 9790, 'customer_unique_id__1': '290c77bc529b7ac935b93aa66c333dc3', 'customer_id__1': '18955e83d337fd6b2def6b18a428ac77', 'ingestion_time__1': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__1': 'sp', 'city__2': 'sao paulo', 'customer_zip_code_prefix__2': 1151, 'customer_unique_id__2': '060e732b5b29e8181a18229c7b0b2b5e', 'customer_id__2': '4e7b3e00288586ebd08712fdd0374a03', 'ingestion_time__2': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__2': 'sp', 'city__3': 'mogi das cruzes', 'customer_zip_code_prefix__3': 8775, 'customer_unique_id__3': '259dac757896d24d7702b9acbbff3f3c', 'customer_id__3': 'b2b6027bc5c5109e529d4dc6358b12c3', 'ingestion_time__3': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__3': 'sp', 'city__4': 'campinas', 'customer_zip_code_prefix__4': 13056, 'customer_unique_id__4': '345ecd01c38d18a9036ed96c73b8d066', 'customer_id__4': '4f2d8ab171c80ec8364f7c12e35b23ad', 'ingestion_time__4': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__4': 'sp', 'city__5': 'jaragua do sul', 'customer_zip_code_prefix__5': 89254, 'customer_unique_id__5': '4c93744516667ad3b8f1fb645a3116a4', 'customer_id__5': '879864dab9bc3047522c92c82e1212b8', 'ingestion_time__5': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__5': 'sc', 'city__6': 'sao paulo', 'customer_zip_code_prefix__6': 4534, 'customer_unique_id__6': 'addec96d2e059c80c30fe6871d30d177', 'customer_id__6': 'fd826e7cf63160e536e0908c76c3f441', 'ingestion_time__6': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__6': 'sp', 'city__7': 'timoteo', 'customer_zip_code_prefix__7': 35182, 'customer_unique_id__7': '57b2a98a409812fe9618067b6b8ebe4f', 'customer_id__7': '5e274e7a0c3809e14aba7ad5aae0d407', 'ingestion_time__7': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__7': 'mg', 'city__8': 'curitiba', 'customer_zip_code_prefix__8': 81560 ... 5900 parameters truncated ... 'ingestion_time__991': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__991': 'es', 'city__992': 'contagem', 'customer_zip_code_prefix__992': 32143, 'customer_unique_id__992': 'b087812101562e36a7b1c11c1540c3bd', 'customer_id__992': '4b6484fa6c4406d63dca39c2f421d2b4', 'ingestion_time__992': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__992': 'mg', 'city__993': 'guarapuava', 'customer_zip_code_prefix__993': 85035, 'customer_unique_id__993': '43f0b8fa25a050c02dc18e166ed574ef', 'customer_id__993': '851406b866022c60fdb8a6e862808933', 'ingestion_time__993': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__993': 'pr', 'city__994': 'sao paulo', 'customer_zip_code_prefix__994': 4040, 'customer_unique_id__994': 'bb4a329975df85aa69684e124f0b48b1', 'customer_id__994': '269e3d5f088fc1f4b2a81eb0ce8ce7d6', 'ingestion_time__994': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__994': 'sp', 'city__995': 'bom jesus dos perdoes', 'customer_zip_code_prefix__995': 12955, 'customer_unique_id__995': '93805ba8be262fe253c4284751762866', 'customer_id__995': '84224aa8a8d7d7a16e6ed976990b9cdf', 'ingestion_time__995': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__995': 'sp', 'city__996': 'ipatinga', 'customer_zip_code_prefix__996': 35160, 'customer_unique_id__996': 'db94b7a9542eb59e1d8d0e7191013354', 'customer_id__996': '7795ad64f8c82d9dc38060df2f3ceab2', 'ingestion_time__996': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__996': 'mg', 'city__997': 'urucurituba', 'customer_zip_code_prefix__997': 69180, 'customer_unique_id__997': '4bac35931842898ef246fe185e61f7b3', 'customer_id__997': '3fcc0ad6fc4d2cb5b8ab39309e1ac335', 'ingestion_time__997': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__997': 'am', 'city__998': 'jandira', 'customer_zip_code_prefix__998': 6624, 'customer_unique_id__998': 'f1bb87ce3b511f772f77765bd3fcef6a', 'customer_id__998': '58010882ac48cc7801627ad2bcd383e4', 'ingestion_time__998': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__998': 'sp', 'city__999': 'olinda', 'customer_zip_code_prefix__999': 53130, 'customer_unique_id__999': 'fbcafae33b8ac7b85dcbb5ff0cad932e', 'customer_id__999': '897b42a91c4c99a830882d3470ecbb5f', 'ingestion_time__999': datetime.datetime(2026, 4, 25, 15, 47, 44, 110000, tzinfo=datetime.timezone.utc), 'state__999': 'pe'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2026-04-25 23:36:25,446 - extract.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-25 23:36:29,085 - extract.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-25 23:36:29,921 - extract.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-25 23:36:30,544 - extract.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-25 23:36:30,901 - extract.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-25 23:36:31,759 - extract.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-25 23:36:31,936 - extract.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-25 23:36:31,950 - extract.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-25 23:36:31,953 - extract.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-25 23:36:55,048 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-25 23:37:06,618 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-25 23:37:06,683 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-25 23:37:07,359 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-25 23:37:11,261 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-25 23:37:12,927 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-25 23:37:13,008 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-25 23:37:15,261 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-25 23:37:18,490 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-25 23:37:18,523 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-25 23:37:18,714 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-25 23:37:18,728 - load.py - INFO - Данные из categories успешно загружены в CSV
+2026-04-25 23:37:19,818 - load.py - INFO - Данные из customers успешно загружены в CSV
+2026-04-25 23:37:28,740 - load.py - INFO - Данные из geolocation успешно загружены в CSV
+2026-04-25 23:37:31,036 - load.py - INFO - Данные из orders успешно загружены в CSV
+2026-04-25 23:37:33,539 - load.py - INFO - Данные из order_items успешно загружены в CSV
+2026-04-25 23:37:35,032 - load.py - INFO - Данные из order_payments успешно загружены в CSV
+2026-04-25 23:37:36,863 - load.py - INFO - Данные из order_reviews успешно загружены в CSV
+2026-04-25 23:37:37,545 - load.py - INFO - Данные из products успешно загружены в CSV
+2026-04-25 23:37:37,623 - load.py - INFO - Данные из sellers успешно загружены в CSV
+2026-04-25 23:37:37,635 - load.py - ERROR - Ошибка загрузки данных в промежуточные таблицы в БД: (psycopg2.errors.UndefinedFile) ОШИБКА:  не удалось открыть файл "data/csv/customers.csv" для чтения: No such file or directory
+HINT:  COPY FROM указывает серверному процессу PostgreSQL прочитать данные из файла. Возможно, на самом деле вам нужно клиентское средство, например, \copy в psql.
+
+[SQL: COPY customers_temp
+FROM 'data/csv/customers.csv'
+CSV HEADER;
+
+COPY categories
+FROM 'data/csv/categories.csv'
+CSV HEADER;
+
+COPY geolocations_temp
+FROM 'data/csv/geolocation.csv'
+CSV HEADER;
+
+COPY order_items_temp
+FROM 'data/csv/order_items.csv'
+CSV HEADER;
+
+COPY payments_temp
+FROM 'data/csv/order_payments.csv'
+CSV HEADER;
+
+COPY reviews_temp
+FROM 'data/csv/order_reviews.csv'
+CSV HEADER;
+
+COPY orders_temp
+FROM 'data/csv/order_items.csv'
+CSV HEADER;
+
+COPY sellers_temp
+FROM 'data/csv/sellers.csv'
+CSV HEADER;
+
+COPY products_temp
+FROM 'data/csv/products.csv'
+CSV HEADER;
+]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-04-26 00:15:40,978 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 00:15:40,989 - load.py - INFO - categories → CSV готов
+2026-04-26 00:15:42,093 - load.py - INFO - customers → CSV готов
+2026-04-26 00:15:42,184 - load.py - ERROR - Ошибка загрузки customers в temp: ОШИБКА:  повторяющееся значение ключа нарушает ограничение уникальности "customers_temp_customer_unique_id_key"
+DETAIL:  Ключ "(customer_unique_id)=(b6c083700ca8c135ba9f0f132930d4e8)" уже существует.
+CONTEXT:  COPY customers_temp, строка 681
+
+2026-04-26 00:18:16,844 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 00:18:16,854 - load.py - INFO - categories → CSV готов
+2026-04-26 00:18:17,866 - load.py - INFO - customers → CSV готов
+2026-04-26 00:18:17,937 - load.py - ERROR - Ошибка загрузки customers в temp: ОШИБКА:  повторяющееся значение ключа нарушает ограничение уникальности "customers_temp_customer_unique_id_key"
+DETAIL:  Ключ "(customer_unique_id)=(b6c083700ca8c135ba9f0f132930d4e8)" уже существует.
+CONTEXT:  COPY customers_temp, строка 681
+
+2026-04-26 00:18:54,142 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 00:18:54,152 - load.py - INFO - categories → CSV готов
+2026-04-26 00:18:55,163 - load.py - INFO - customers → CSV готов
+2026-04-26 00:18:55,241 - load.py - ERROR - Ошибка загрузки customers в temp: ОШИБКА:  повторяющееся значение ключа нарушает ограничение уникальности "customers_temp_customer_unique_id_key"
+DETAIL:  Ключ "(customer_unique_id)=(b6c083700ca8c135ba9f0f132930d4e8)" уже существует.
+CONTEXT:  COPY customers_temp, строка 681
+
+2026-04-26 00:24:25,745 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 00:24:25,755 - load.py - INFO - categories → CSV готов
+2026-04-26 00:24:25,759 - load.py - ERROR - Ошибка загрузки categories в temp: ОШИБКА:  отношение "categories" не существует
+
+2026-04-26 00:26:39,677 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 00:26:39,688 - load.py - INFO - categories → CSV готов
+2026-04-26 00:26:39,692 - load.py - ERROR - Ошибка загрузки categories в temp: ОШИБКА:  неверный синтаксис для типа integer: "beleza_saude"
+CONTEXT:  COPY product_categories, строка 2, столбец product_category_id: "beleza_saude"
+
+2026-04-26 00:47:14,372 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 00:48:49,928 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 00:49:17,515 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 00:49:17,559 - load.py - INFO - categories → загружены
+2026-04-26 00:49:18,590 - load.py - INFO - customers → CSV готов
+2026-04-26 00:49:19,938 - load.py - INFO - customers → загружен в customers_temp
+2026-04-26 00:49:27,809 - load.py - INFO - geolocation → CSV готов
+2026-04-26 00:49:33,083 - load.py - INFO - geolocation → загружен в geolocations_temp
+2026-04-26 00:49:34,935 - load.py - INFO - orders → CSV готов
+2026-04-26 00:49:34,949 - load.py - ERROR - Ошибка загрузки orders: ОШИБКА:  столбец "order_id" в таблице "orders_temp" не существует
+
+2026-04-26 00:53:51,222 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 00:53:51,260 - load.py - INFO - categories → загружены
+2026-04-26 00:53:52,361 - load.py - INFO - customers → CSV готов
+2026-04-26 00:53:53,622 - load.py - INFO - customers → загружен в customers_temp
+2026-04-26 00:54:01,714 - load.py - INFO - geolocation → CSV готов
+2026-04-26 00:54:07,325 - load.py - INFO - geolocation → загружен в geolocations_temp
+2026-04-26 00:54:09,798 - load.py - INFO - orders → CSV готов
+2026-04-26 00:54:12,436 - load.py - INFO - orders → загружен в orders_temp
+2026-04-26 00:54:14,910 - load.py - INFO - order_items → CSV готов
+2026-04-26 00:54:14,911 - load.py - ERROR - Ошибка загрузки order_items: ОШИБКА:  отношение "order_items_temp" не существует
+
+2026-04-26 00:57:31,391 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 00:57:31,431 - load.py - INFO - categories → загружены
+2026-04-26 00:57:32,485 - load.py - INFO - customers → CSV готов
+2026-04-26 00:57:33,847 - load.py - INFO - customers → загружен в customers_temp
+2026-04-26 00:57:41,381 - load.py - INFO - geolocation → CSV готов
+2026-04-26 00:57:47,196 - load.py - INFO - geolocation → загружен в geolocations_temp
+2026-04-26 00:57:49,106 - load.py - INFO - orders → CSV готов
+2026-04-26 00:57:51,680 - load.py - INFO - orders → загружен в orders_temp
+2026-04-26 00:57:53,326 - load.py - INFO - order_items → CSV готов
+2026-04-26 00:57:53,328 - load.py - ERROR - Ошибка загрузки order_items: ОШИБКА:  отношение "order_items_temp" не существует
+
+2026-04-26 01:01:10,247 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 01:01:10,300 - load.py - INFO - categories → загружены
+2026-04-26 01:01:11,363 - load.py - INFO - customers → CSV готов
+2026-04-26 01:01:12,778 - load.py - INFO - customers → загружен в customers_temp
+2026-04-26 01:01:22,051 - load.py - INFO - geolocation → CSV готов
+2026-04-26 01:01:28,000 - load.py - INFO - geolocation → загружен в geolocations_temp
+2026-04-26 01:01:30,480 - load.py - INFO - orders → CSV готов
+2026-04-26 01:01:33,513 - load.py - INFO - orders → загружен в orders_temp
+2026-04-26 01:01:36,060 - load.py - INFO - order_items → CSV готов
+2026-04-26 01:01:37,915 - load.py - ERROR - Ошибка загрузки order_items: ОШИБКА:  INSERT или UPDATE в таблице "order_items" нарушает ограничение внешнего ключа "fk_items_order"
+DETAIL:  Ключ (order_id)=(00010242fe8c5a6d1ba2dd792cb16214) отсутствует в таблице "orders".
+
+2026-04-26 01:09:34,081 - load.py - INFO - categories → CSV ready
+2026-04-26 01:33:14,538 - load.py - INFO - START ETL PIPELINE
+2026-04-26 01:34:58,476 - load.py - INFO - START ETL PIPELINE
+2026-04-26 01:34:58,795 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 17:39:53,359 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 17:39:53,732 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 17:41:45,034 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 17:41:45,108 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 17:41:45,129 - load.py - INFO - categories загружено в таблицу product_categories
+2026-04-26 17:41:47,434 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 17:42:00,084 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 17:42:04,132 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 17:48:42,769 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 17:48:42,972 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 17:48:45,941 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 17:48:59,532 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 17:49:04,876 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 17:53:50,915 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 17:55:49,498 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 17:55:49,678 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 17:55:51,927 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 17:56:05,288 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 17:56:09,621 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 17:56:11,314 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 18:00:29,848 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 18:00:29,924 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 18:03:50,964 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 18:03:51,132 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 18:03:52,644 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 18:04:03,334 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 18:04:06,503 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 18:04:08,259 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 18:05:26,578 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 18:05:26,749 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 18:05:28,153 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 18:05:38,620 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 18:05:41,553 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 18:05:43,181 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 18:05:43,894 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 18:05:43,974 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 18:05:44,938 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 18:14:52,815 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 18:14:52,996 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 18:14:54,470 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 18:15:06,305 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 18:15:10,535 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 18:15:12,754 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 18:15:13,644 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 18:15:13,726 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 18:15:14,816 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 18:24:39,696 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 18:24:39,880 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 18:24:41,394 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 18:24:52,246 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 18:24:55,252 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 18:24:56,931 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 18:24:57,662 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 18:24:57,729 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 18:24:58,820 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 18:26:13,824 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 18:26:14,024 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 18:26:15,601 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 18:26:27,287 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 18:26:30,378 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 18:26:32,059 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 18:26:32,754 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 18:26:32,819 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 18:26:33,785 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 18:27:40,881 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 18:27:41,066 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 18:27:42,561 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 18:27:54,214 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 18:27:57,952 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 18:27:59,977 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 18:28:01,138 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 18:28:01,265 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 18:28:02,621 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 18:28:24,988 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-26 18:28:24,998 - load.py - INFO - categories загружено в таблицу product_categories
+2026-04-26 18:39:12,645 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 18:39:12,718 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 18:39:14,209 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 18:39:29,005 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 18:39:29,228 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 18:39:30,883 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 18:39:43,152 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 18:39:46,584 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 18:39:48,556 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 18:39:49,541 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 18:39:49,618 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 18:39:50,673 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 18:39:50,688 - load.py - INFO - categories загружено в таблицу product_categories
+2026-04-26 18:39:54,044 - load.py - INFO - order_items загружено в таблицу order_items
+2026-04-26 19:04:52,412 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 19:05:21,896 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 19:05:22,101 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 19:05:23,738 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 19:05:35,060 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 19:05:38,228 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 19:05:39,973 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 19:05:40,690 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 19:05:40,764 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 19:05:41,939 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 19:05:41,954 - load.py - INFO - categories загружено в таблицу product_categories
+2026-04-26 19:24:36,419 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 19:24:36,597 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 19:24:38,048 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 19:24:49,133 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 19:24:52,211 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 19:24:53,901 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 19:24:54,585 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 19:24:54,651 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 19:29:49,623 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 19:29:49,710 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 19:29:49,725 - load.py - INFO - categories загружено в таблицу product_categories
+2026-04-26 19:29:51,286 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 19:30:01,920 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 19:30:05,089 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 19:30:06,828 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 19:30:07,592 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 19:30:07,665 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 19:31:31,054 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 19:31:31,125 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 19:32:11,974 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 19:32:12,143 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 19:32:12,157 - load.py - INFO - categories загружено в таблицу product_categories
+2026-04-26 19:32:13,699 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 19:32:24,152 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 19:32:27,100 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 19:32:28,780 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 19:32:29,516 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 19:32:29,582 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 19:32:30,443 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 19:32:50,570 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-26 19:32:50,570 - load.py - INFO - Загрузка данных в БД завершилась с успехом
+2026-04-26 19:38:10,350 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 19:38:10,528 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 19:38:10,542 - load.py - INFO - categories загружено в таблицу product_categories
+2026-04-26 19:38:11,951 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 19:38:22,702 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 19:38:25,759 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 19:38:27,363 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 19:38:28,055 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 19:38:28,122 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 19:38:29,005 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 19:38:48,240 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-26 19:53:25,256 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 19:53:49,612 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 19:53:49,804 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 19:53:49,819 - load.py - INFO - categories загружено в таблицу product_categories
+2026-04-26 19:53:51,297 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 19:54:01,797 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 19:54:04,757 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 19:54:06,438 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 19:54:07,152 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 19:54:07,219 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 19:54:08,099 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 19:55:30,123 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 19:55:30,294 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 19:55:30,308 - load.py - INFO - categories загружено в таблицу product_categories
+2026-04-26 19:55:31,698 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 19:55:42,528 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 19:55:45,802 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 19:55:47,482 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 19:55:48,203 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 19:55:48,270 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 19:55:49,487 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 19:56:45,650 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 19:56:45,836 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 19:56:45,850 - load.py - INFO - categories загружено в таблицу product_categories
+2026-04-26 19:56:47,322 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 19:56:57,567 - load.py - INFO - geolocation загружено в таблицу geolocations_temp
+2026-04-26 19:57:00,525 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 19:57:02,219 - load.py - INFO - order_payments загружено в таблицу payments_temp
+2026-04-26 19:57:02,900 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 19:57:02,963 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-26 19:57:03,910 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-26 19:57:24,020 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-26 19:57:24,020 - load.py - INFO - Загрузка данных в БД завершилась с успехом
+2026-04-26 20:00:17,542 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 20:00:17,625 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 23:57:16,887 - extract.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-26 23:57:20,429 - extract.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-26 23:57:21,723 - extract.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-26 23:57:22,597 - extract.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-26 23:57:23,008 - extract.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-26 23:57:23,911 - extract.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-26 23:57:24,129 - extract.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-26 23:57:24,144 - extract.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-26 23:57:24,148 - extract.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-26 23:57:45,340 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-26 23:57:56,436 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-26 23:57:56,495 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-26 23:57:57,079 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-26 23:58:01,030 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-26 23:58:02,626 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-26 23:58:02,702 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-26 23:58:04,850 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-26 23:58:07,657 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-26 23:58:07,691 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-26 23:58:07,692 - load.py - INFO - Загрузка данных в БД началась
+2026-04-26 23:58:08,004 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-26 23:58:09,505 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-26 23:58:20,248 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-26 23:58:23,338 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-26 23:58:26,015 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-26 23:58:27,624 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-26 23:58:29,876 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-26 23:58:30,642 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-26 23:58:30,676 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-26 23:58:30,724 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 00:02:03,837 - extract.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-27 00:02:07,330 - extract.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-27 00:02:08,167 - extract.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-27 00:02:08,791 - extract.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-27 00:02:09,147 - extract.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-27 00:02:27,362 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:02:27,434 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 00:02:28,962 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 00:02:39,809 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 00:02:42,999 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 00:02:45,611 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 00:02:47,206 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 00:02:49,515 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 00:02:50,259 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 00:02:50,292 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 00:02:50,336 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 00:08:52,960 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:08:53,028 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 00:08:54,565 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 00:09:05,535 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 00:09:08,839 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 00:09:11,522 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 00:09:13,128 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 00:09:15,376 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 00:09:16,140 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 00:09:16,179 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 00:09:16,226 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 00:09:17,843 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 00:15:21,256 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:15:44,553 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:21:00,292 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:21:00,476 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 00:21:02,009 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 00:21:13,779 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 00:21:17,644 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 00:21:20,627 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 00:21:22,613 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 00:21:25,560 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 00:21:26,658 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 00:21:26,712 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 00:21:26,793 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 00:21:27,610 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 00:24:06,724 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:24:06,795 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 00:24:08,339 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 00:24:18,853 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 00:24:21,893 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 00:24:24,439 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 00:24:26,077 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 00:24:28,463 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 00:24:29,179 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 00:24:29,213 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 00:24:29,258 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 00:24:30,223 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 00:26:46,210 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:26:59,041 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:26:59,116 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 00:27:00,775 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 00:27:12,108 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 00:27:16,332 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 00:27:19,468 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 00:27:21,660 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 00:27:25,129 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 00:27:26,209 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 00:27:26,247 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 00:27:26,308 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 00:27:27,834 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 00:28:25,129 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:28:25,314 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 00:28:26,714 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 00:28:38,228 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 00:28:41,383 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 00:28:43,942 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 00:28:45,597 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 00:28:47,978 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 00:28:48,741 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 00:28:48,775 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 00:28:48,824 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 00:28:49,433 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 00:31:54,800 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:32:16,007 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:32:16,204 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 00:32:17,669 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 00:32:28,354 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 00:32:31,428 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 00:32:34,037 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 00:32:35,638 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 00:32:38,023 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 00:32:38,791 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 00:32:38,828 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 00:32:38,873 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 00:32:39,571 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 00:39:53,264 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:39:53,355 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 00:39:54,850 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 00:40:05,682 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 00:40:08,754 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 00:40:11,417 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 00:40:13,037 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 00:40:15,538 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 00:40:16,258 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 00:40:16,293 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 00:40:16,349 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 00:40:17,419 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 00:40:51,383 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-27 00:40:51,383 - load.py - INFO - Загрузка данных в БД завершилась с успехом
+2026-04-27 00:41:12,603 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 00:41:12,751 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 00:41:14,984 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 00:41:29,524 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 00:41:33,502 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 00:41:36,758 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 00:41:38,828 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 00:41:41,708 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 00:41:42,573 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 00:41:42,617 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 00:41:42,671 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 00:41:44,696 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 00:42:27,038 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-27 00:42:27,038 - load.py - INFO - Загрузка данных в БД завершилась с успехом
+2026-04-27 01:11:26,596 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 01:11:26,768 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 01:12:36,878 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 01:12:37,056 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 01:12:39,661 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 01:12:55,885 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 01:13:00,425 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 01:13:04,325 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 01:13:06,488 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 01:13:09,416 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 01:13:10,320 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 01:13:10,373 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 01:13:10,427 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 01:13:12,778 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 01:13:59,109 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-27 01:13:59,110 - load.py - INFO - Загрузка данных в БД завершилась с успехом
+2026-04-27 02:03:25,024 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 02:03:25,232 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 02:03:27,540 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 02:03:38,777 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 02:04:08,117 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 02:04:08,289 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 02:04:10,436 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 02:04:24,843 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 02:04:28,886 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 02:04:32,056 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 02:04:33,925 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 02:04:36,796 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 02:04:37,709 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 02:04:37,750 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 02:04:37,805 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 02:04:40,899 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 02:05:40,651 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-27 02:05:40,919 - load.py - INFO - Загрузка данных в БД завершилась с успехом
+2026-04-27 02:08:11,685 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 02:08:11,897 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 02:08:14,361 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 02:08:29,870 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 02:08:34,577 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 02:08:38,385 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 02:08:40,765 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 02:08:44,220 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 02:08:45,180 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 02:08:45,224 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 02:08:45,283 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 02:08:49,215 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 02:09:47,385 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-27 02:12:12,727 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 02:12:12,883 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 02:12:14,851 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 02:12:30,939 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 02:12:34,961 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 02:12:38,763 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 02:12:41,164 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 02:12:44,842 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 02:12:45,950 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 02:12:46,000 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 02:12:46,066 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 02:12:50,777 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 02:13:55,051 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-27 02:13:55,319 - load.py - INFO - Загрузка данных в БД завершилась с успехом
+2026-04-27 02:25:39,954 - load.py - INFO - Загрузка данных в БД началась
+2026-04-27 02:25:40,142 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-27 02:25:42,548 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-27 02:25:58,871 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-27 02:26:02,848 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-27 02:26:06,025 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-27 02:26:07,977 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-27 02:26:10,861 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-27 02:26:11,774 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-27 02:26:11,813 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-27 02:26:11,865 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-27 02:26:16,734 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-27 02:27:24,312 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-27 02:27:24,528 - sql.py - INFO - Промежуточные таблицы полностью очищены (пусты)
+2026-04-27 02:27:24,801 - load.py - INFO - Загрузка данных в БД завершилась с успехом
