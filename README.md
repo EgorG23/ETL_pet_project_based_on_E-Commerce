@@ -8,6 +8,19 @@
 
 ---
 
+## Перед использованием
+
+1. Скачать данные: https://www.kaggle.com/datasets/jayeshsalunke101/brazilian-ecommerce-public-dataset
+2. Заполнить CSV-файлами папку data/datasets
+3. Установить зависимости requirements.txt
+```bash
+pip install -r requirements.txt
+```
+4. Создать БД в PostgreSQL
+5. Настроить соединение с БД: создать в корневой папке проекта файл .env и указать переменные DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD
+
+---
+
 ##  Архитектура
 
 - Extract: чтение JSON-файлов
@@ -72,16 +85,6 @@
 - SQLAlchemy
 - psycopg2
 - Pandas
-
----
-
-## Перед использованием
-
-1. Скачать данные: https://www.kaggle.com/datasets/jayeshsalunke101/brazilian-ecommerce-public-dataset
-2. Заполнить CSV-файлами папку data/datasets
-3. Установить зависимости согласно requirements.txt
-4. Создать БД в PostgreSQL
-5. Настроить соединение с БД: создать в корневой папке проекта файл .env и указать переменные DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD
  
 
 ---
@@ -90,3 +93,4 @@
 
 ```bash
 python pipeline/pipeline.py
+```
