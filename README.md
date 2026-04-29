@@ -98,7 +98,3 @@ python pipeline/pipeline.py
 ---
 
 ## Удачного использования и спасибо за внимание к моему проекту!
-
-![Success](content/Beyonce-crying-gif.gif.mp4)
-
----
