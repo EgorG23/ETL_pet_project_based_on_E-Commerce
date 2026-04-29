@@ -3,3 +3,4 @@ data/datasets/
 *.json
 __pycache__/
 .env
+logs/logs.log
