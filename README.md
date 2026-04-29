@@ -85,7 +85,7 @@ pip install -r requirements.txt
 - SQLAlchemy
 - psycopg2
 - Pandas
- 
+- ruff (опционально) 
 
 ---
 
