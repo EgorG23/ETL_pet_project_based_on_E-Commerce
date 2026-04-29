@@ -1,5 +1,7 @@
 from logs.logger import setup_logger
+from scripts.extract import extract
 from scripts.load import load
+from scripts.transform import transform
 
 logger = setup_logger("pipeline.py")
 

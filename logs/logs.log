@@ -1340,3 +1340,38 @@ DETAIL:  Ключ (order_id)=(00010242fe8c5a6d1ba2dd792cb16214) отсутств
 2026-04-27 02:27:24,312 - sql.py - INFO - Данные в таблицах приведены к корректному виду
 2026-04-27 02:27:24,528 - sql.py - INFO - Промежуточные таблицы полностью очищены (пусты)
 2026-04-27 02:27:24,801 - load.py - INFO - Загрузка данных в БД завершилась с успехом
+2026-04-29 18:55:50,295 - extract.py - INFO - Данные успешно получены из olist_customers_dataset
+2026-04-29 18:55:53,949 - extract.py - INFO - Данные успешно получены из olist_geolocation_dataset
+2026-04-29 18:55:54,832 - extract.py - INFO - Данные успешно получены из olist_orders_dataset
+2026-04-29 18:55:55,459 - extract.py - INFO - Данные успешно получены из olist_order_items_dataset
+2026-04-29 18:55:55,909 - extract.py - INFO - Данные успешно получены из olist_order_payments_dataset
+2026-04-29 18:55:56,679 - extract.py - INFO - Данные успешно получены из olist_order_reviews_dataset
+2026-04-29 18:55:56,863 - extract.py - INFO - Данные успешно получены из olist_products_dataset
+2026-04-29 18:55:56,877 - extract.py - INFO - Данные успешно получены из olist_sellers_dataset
+2026-04-29 18:55:56,880 - extract.py - INFO - Данные успешно получены из product_category_name_translation
+2026-04-29 18:56:20,361 - clean_order_payments.py - INFO - clean_payments успешно отработал
+2026-04-29 18:56:32,004 - clean_geolocation.py - INFO - clean_geolocation успешно отработал
+2026-04-29 18:56:32,060 - clean_category_name_translation.py - INFO - clean_category_name_translation успешно отработал
+2026-04-29 18:56:32,718 - clean_products.py - INFO - clean_products успешно отработал
+2026-04-29 18:56:36,549 - clean_orders.py - INFO - clean_orders успешно отработал
+2026-04-29 18:56:38,211 - clean_customers.py - INFO - clean_customers успешно отработал
+2026-04-29 18:56:38,286 - clean_sellers.py - INFO - clean_customers успешно отработал
+2026-04-29 18:56:40,469 - clean_order_items.py - INFO - clean_order_items успешно отработал
+2026-04-29 18:56:43,336 - clean_order_reviews.py - INFO - clean_order_reviews успешно отработал
+2026-04-29 18:56:43,369 - transform.py - INFO - Данные успешно обработаны и отправлены на загрузку в базу данных
+2026-04-29 18:56:43,370 - load.py - INFO - Загрузка данных в БД началась
+2026-04-29 18:56:43,540 - sql.py - INFO - Таблицы успешно созданы (проверены на существование)
+2026-04-29 18:56:45,096 - load.py - INFO - customers загружено в таблицу customers_temp
+2026-04-29 18:56:55,668 - load.py - INFO - geolocations загружено в таблицу geolocations_temp
+2026-04-29 18:56:58,656 - load.py - INFO - orders загружено в таблицу orders_temp
+2026-04-29 18:57:01,198 - load.py - INFO - order_items загружено в таблицу order_items_temp
+2026-04-29 18:57:02,682 - load.py - INFO - order_payments загружено в таблицу order_payments_temp
+2026-04-29 18:57:05,031 - load.py - INFO - order_reviews загружено в таблицу order_reviews_temp
+2026-04-29 18:57:05,712 - load.py - INFO - products загружено в таблицу products_temp
+2026-04-29 18:57:05,748 - load.py - INFO - product_categories загружено в таблицу product_categories_temp
+2026-04-29 18:57:05,793 - load.py - INFO - sellers загружено в таблицу sellers_temp
+2026-04-29 18:57:06,961 - sql.py - INFO - Таблицы-справочники обновлены
+2026-04-29 18:57:28,557 - sql.py - INFO - Данные в таблицах приведены к корректному виду
+2026-04-29 18:57:29,696 - sql.py - INFO - Промежуточные таблицы полностью очищены (пусты)
+2026-04-29 18:57:29,889 - load.py - INFO - Загрузка данных в БД завершилась с успехом
+2026-04-29 18:57:29,889 - pipeline.py - INFO - ETL закончил работу
